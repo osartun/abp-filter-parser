@@ -38,7 +38,7 @@
     "bloom-filter-js": "0.0.12"
   },
   "engines": {
-    "node": "~5.0"
+    "node": ">=5.0"
   },
   "pre-commit": [
     "lint"

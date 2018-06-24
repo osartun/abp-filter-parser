@@ -28,3 +28,6 @@ node_modules
 
 # No need to include dist with npm prepublish
 dist
+
+# Don't check in the output file of hasMatchingFilters
+easylist-matches.json
